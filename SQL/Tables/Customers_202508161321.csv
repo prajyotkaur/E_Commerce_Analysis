@@ -1,0 +1,501 @@
+"Customer_ID","First_Name","Last_Name","Signup_Date","Country","Segment"
+1,Mia,Singh,"2023-10-23",United Kingdom,Retail
+2,Arjun,Liu,"2023-09-27",Ireland,Retail
+3,Zara,Murphy,"2023-07-24",United Kingdom,Retail
+4,Liam,Schmidt,"2023-11-21",Germany,Retail
+5,Liam,Wilson,"2023-02-16",India,Retail
+6,Grace,Roberts,"2023-12-04",United Kingdom,Corporate
+7,Mia,Hughes,"2023-11-08",Ireland,Wholesale
+8,Zara,Smith,"2023-07-04",Hong Kong,Wholesale
+9,Noah,Wilson,"2023-09-26",United Kingdom,Retail
+10,Mia,Smith,"2023-07-10",Germany,Corporate
+11,Isabella,Murphy,"2023-04-09",India,Retail
+12,Chloe,Rossi,"2023-10-20",United Kingdom,Retail
+13,Ishaan,Müller,"2023-04-01",United Kingdom,Retail
+14,Arjun,Müller,"2023-04-26",United Kingdom,Corporate
+15,Ishaan,Murphy,"2023-07-10",Hong Kong,Retail
+16,Arjun,Singh,"2023-11-03",United Kingdom,Wholesale
+17,Isabella,Schmidt,"2023-05-21",United Kingdom,Retail
+18,Oliver,Patel,"2023-06-30",United Kingdom,Corporate
+19,Daniel,Roberts,"2023-01-16",United Kingdom,Retail
+20,Emma,Khan,"2023-02-12",India,Retail
+21,Isabella,Thomas,"2023-01-21",United Kingdom,Corporate
+22,Sophia,Singh,"2023-01-27",Italy,Retail
+23,Amelia,Brown,"2023-11-14",Italy,Retail
+24,Leo,Müller,"2023-11-05",Malaysia,Retail
+25,Arjun,Taylor,"2023-10-28",United Kingdom,Retail
+26,Ethan,Taylor,"2023-01-21",Malaysia,Retail
+27,Liam,O'Connor,"2023-01-29",Italy,Retail
+28,Daniel,Singh,"2023-04-13",United Kingdom,Retail
+29,Isabella,O'Connor,"2023-07-26",India,Corporate
+30,Liam,O'Connor,"2023-05-03",Malaysia,Retail
+31,Emma,Khan,"2023-06-28",United Kingdom,Retail
+32,Noah,Brown,"2023-03-05",Hong Kong,Retail
+33,Mia,Brown,"2023-09-25",Germany,Retail
+34,Lucas,Wilson,"2023-04-25",Italy,Retail
+35,Grace,Khan,"2023-01-25",Hong Kong,Corporate
+36,Mia,Brown,"2023-09-29",Ireland,Corporate
+37,Grace,Roberts,"2023-11-27",Malaysia,Retail
+38,Daniel,Singh,"2023-01-06",Ireland,Retail
+39,Ava,Hughes,"2023-06-09",India,Retail
+40,Ethan,Sharma,"2023-10-30",Italy,Retail
+41,Amelia,Rossi,"2023-09-16",United Kingdom,Retail
+42,Arjun,Patel,"2023-11-10",Germany,Retail
+43,Ishaan,Brown,"2023-06-01",Ireland,Retail
+44,Sophia,Brown,"2023-05-17",United Kingdom,Retail
+45,Mia,Müller,"2023-09-17",United Kingdom,Retail
+46,Chloe,Patel,"2023-02-26",Ireland,Retail
+47,Liam,Evans,"2023-03-29",United Kingdom,Retail
+48,Grace,Khan,"2023-08-08",United Kingdom,Retail
+49,Zara,Hughes,"2023-09-02",India,Wholesale
+50,Arjun,Liu,"2023-02-13",India,Retail
+51,Arjun,Müller,"2023-07-06",India,Retail
+52,Amelia,Thomas,"2023-05-14",Ireland,Retail
+53,Sophia,Müller,"2023-07-03",Malaysia,Wholesale
+54,Emma,Taylor,"2023-12-17",Italy,Retail
+55,Emma,Murphy,"2023-01-29",United Kingdom,Wholesale
+56,Aarav,Hughes,"2023-12-31",United Kingdom,Corporate
+57,Isabella,Rossi,"2023-06-14",India,Retail
+58,Amelia,Schmidt,"2023-10-10",United Kingdom,Retail
+59,Ishaan,Ricci,"2023-06-05",Germany,Retail
+60,Zara,Schmidt,"2023-04-24",Hong Kong,Corporate
+61,Leo,Hughes,"2023-10-10",United Kingdom,Retail
+62,Ishaan,Sharma,"2023-09-09",United Kingdom,Corporate
+63,Sophia,Roberts,"2023-02-22",Hong Kong,Retail
+64,Chloe,Brown,"2023-09-16",Italy,Retail
+65,Liam,Schmidt,"2023-10-03",United Kingdom,Retail
+66,Elijah,Smith,"2023-05-22",Malaysia,Retail
+67,Leo,Smith,"2023-12-05",Malaysia,Retail
+68,Sophia,Smith,"2023-08-23",Italy,Retail
+69,Mia,Ng,"2023-05-03",India,Wholesale
+70,Emma,Khan,"2023-01-04",United Kingdom,Corporate
+71,Arjun,O'Connor,"2023-09-05",United Kingdom,Retail
+72,Amelia,Evans,"2023-03-18",Italy,Retail
+73,Emma,Wilson,"2023-10-04",United Kingdom,Retail
+74,Oliver,Sharma,"2023-07-12",India,Wholesale
+75,Zara,Sharma,"2023-06-20",Malaysia,Retail
+76,Emma,Thomas,"2023-03-01",United Kingdom,Corporate
+77,Elijah,O'Connor,"2023-09-18",Italy,Retail
+78,Noah,Hughes,"2023-03-02",United Kingdom,Retail
+79,Lucas,Schmidt,"2023-06-02",Malaysia,Retail
+80,Zara,Singh,"2023-11-03",United Kingdom,Retail
+81,Leo,Patel,"2023-12-03",Italy,Wholesale
+82,Liam,Müller,"2023-12-29",Italy,Retail
+83,Amelia,Singh,"2023-12-17",Ireland,Retail
+84,Daniel,Patel,"2023-07-23",India,Corporate
+85,Ethan,Evans,"2023-03-15",India,Corporate
+86,Ishaan,O'Connor,"2023-11-04",Italy,Corporate
+87,Mia,Liu,"2023-10-21",India,Retail
+88,Elijah,Patel,"2023-12-29",Hong Kong,Retail
+89,Arjun,Müller,"2023-08-27",Germany,Corporate
+90,Daniel,Müller,"2023-02-21",Germany,Retail
+91,Liam,Müller,"2023-07-04",United Kingdom,Retail
+92,Daniel,O'Connor,"2023-06-14",India,Wholesale
+93,Daniel,Smith,"2023-11-05",Italy,Retail
+94,Sophia,Murphy,"2023-05-24",Germany,Retail
+95,Grace,Taylor,"2023-05-01",United Kingdom,Corporate
+96,Ava,Müller,"2023-01-30",Malaysia,Retail
+97,Noah,Khan,"2023-11-02",Ireland,Retail
+98,Zara,Ricci,"2023-10-04",India,Retail
+99,Ethan,Ng,"2023-01-16",United Kingdom,Retail
+100,Oliver,Ng,"2023-06-08",Hong Kong,Retail
+101,Daniel,Ng,"2023-06-25",United Kingdom,Wholesale
+102,Amelia,Ricci,"2023-06-21",United Kingdom,Wholesale
+103,Daniel,Rossi,"2023-12-03",Malaysia,Retail
+104,Aarav,Singh,"2023-02-25",Hong Kong,Retail
+105,Arjun,Müller,"2023-04-23",United Kingdom,Corporate
+106,Arjun,Hughes,"2023-03-08",Germany,Retail
+107,Arjun,Taylor,"2023-03-31",India,Retail
+108,Zara,Hughes,"2023-11-28",Malaysia,Retail
+109,Emma,Murphy,"2023-12-11",Ireland,Retail
+110,Ishaan,Schmidt,"2023-01-17",Germany,Retail
+111,Ava,Müller,"2023-08-20",India,Retail
+112,Arjun,Roberts,"2023-03-27",India,Retail
+113,Lucas,Ricci,"2023-03-12",India,Retail
+114,Emma,Thomas,"2023-04-17",Italy,Retail
+115,Isabella,Liu,"2023-03-13",United Kingdom,Retail
+116,Lucas,Ng,"2023-06-29",Hong Kong,Retail
+117,Aarav,Smith,"2023-12-31",Malaysia,Retail
+118,Oliver,Wilson,"2023-08-03",India,Retail
+119,Noah,Patel,"2023-09-22",United Kingdom,Retail
+120,Oliver,Singh,"2023-06-30",United Kingdom,Retail
+121,Liam,Evans,"2023-01-06",India,Retail
+122,Zara,Roberts,"2023-01-31",United Kingdom,Corporate
+123,Zara,Brown,"2023-04-09",Hong Kong,Retail
+124,Emma,Evans,"2023-03-31",Ireland,Wholesale
+125,Grace,Ng,"2023-11-04",India,Corporate
+126,Lucas,Smith,"2023-11-05",Malaysia,Retail
+127,Mia,Taylor,"2023-11-09",Ireland,Retail
+128,Arjun,Thomas,"2023-08-22",Ireland,Corporate
+129,Lucas,Hughes,"2023-07-23",Italy,Retail
+130,Ethan,Thomas,"2023-08-26",Italy,Retail
+131,Lucas,Rossi,"2023-05-29",Germany,Retail
+132,Lucas,Taylor,"2023-09-03",Italy,Retail
+133,Mia,Evans,"2023-10-18",Hong Kong,Retail
+134,Lucas,Thomas,"2023-10-07",Germany,Corporate
+135,Arjun,Brown,"2023-08-13",United Kingdom,Corporate
+136,Elijah,Liu,"2023-01-22",Ireland,Retail
+137,Ethan,Smith,"2023-09-23",Ireland,Wholesale
+138,Aarav,Wilson,"2023-05-15",United Kingdom,Retail
+139,Elijah,Ricci,"2023-09-30",United Kingdom,Corporate
+140,Liam,O'Connor,"2023-07-17",India,Retail
+141,Chloe,Liu,"2023-11-19",Ireland,Corporate
+142,Noah,O'Connor,"2023-05-04",Hong Kong,Wholesale
+143,Ava,Schmidt,"2023-12-07",United Kingdom,Retail
+144,Liam,Roberts,"2023-11-06",United Kingdom,Retail
+145,Chloe,Ricci,"2023-05-02",India,Wholesale
+146,Grace,Taylor,"2023-06-26",Malaysia,Retail
+147,Aarav,Roberts,"2023-07-14",United Kingdom,Retail
+148,Noah,Hughes,"2023-10-09",United Kingdom,Corporate
+149,Daniel,Murphy,"2023-09-10",United Kingdom,Retail
+150,Mia,Müller,"2023-11-08",Italy,Retail
+151,Grace,Roberts,"2023-05-16",Germany,Retail
+152,Ava,Liu,"2023-07-04",United Kingdom,Retail
+153,Leo,Smith,"2023-06-07",United Kingdom,Corporate
+154,Ava,Müller,"2023-11-29",Germany,Retail
+155,Liam,Khan,"2023-04-22",Hong Kong,Retail
+156,Zara,Hughes,"2023-08-03",India,Retail
+157,Oliver,Ricci,"2023-02-13",Germany,Corporate
+158,Lucas,Ng,"2023-11-08",United Kingdom,Retail
+159,Isabella,Patel,"2023-05-21",United Kingdom,Corporate
+160,Arjun,Wilson,"2023-05-05",United Kingdom,Wholesale
+161,Chloe,Brown,"2023-08-02",India,Wholesale
+162,Zara,Rossi,"2023-07-02",Malaysia,Corporate
+163,Liam,Sharma,"2023-11-07",Hong Kong,Wholesale
+164,Liam,Smith,"2023-07-14",Hong Kong,Corporate
+165,Liam,Khan,"2023-07-09",Hong Kong,Retail
+166,Daniel,Liu,"2023-02-08",Hong Kong,Wholesale
+167,Elijah,Hughes,"2023-01-09",United Kingdom,Retail
+168,Amelia,Schmidt,"2023-05-26",United Kingdom,Retail
+169,Elijah,O'Connor,"2024-01-01",Ireland,Corporate
+170,Aarav,Singh,"2023-12-02",Italy,Corporate
+171,Oliver,Murphy,"2023-08-19",United Kingdom,Wholesale
+172,Mia,Ng,"2023-08-19",Malaysia,Retail
+173,Arjun,Ng,"2023-05-24",Italy,Retail
+174,Ishaan,Patel,"2023-03-06",Italy,Retail
+175,Zara,Ng,"2023-01-04",United Kingdom,Retail
+176,Emma,Rossi,"2023-05-05",United Kingdom,Retail
+177,Ishaan,Khan,"2023-04-26",United Kingdom,Retail
+178,Amelia,Patel,"2023-03-12",Malaysia,Retail
+179,Leo,Hughes,"2023-04-05",Italy,Wholesale
+180,Isabella,O'Connor,"2023-01-10",India,Retail
+181,Leo,Rossi,"2023-08-11",United Kingdom,Corporate
+182,Amelia,Singh,"2023-12-06",Ireland,Retail
+183,Emma,Murphy,"2023-09-10",Germany,Retail
+184,Zara,Murphy,"2023-06-14",India,Retail
+185,Emma,Brown,"2023-06-03",India,Retail
+186,Liam,Müller,"2023-04-23",United Kingdom,Corporate
+187,Amelia,Evans,"2023-02-22",Hong Kong,Retail
+188,Sophia,Khan,"2023-08-08",United Kingdom,Retail
+189,Noah,Evans,"2023-07-27",Malaysia,Corporate
+190,Elijah,Ricci,"2023-01-03",United Kingdom,Corporate
+191,Zara,Murphy,"2023-06-02",United Kingdom,Retail
+192,Ethan,Ricci,"2023-04-12",Malaysia,Retail
+193,Ethan,O'Connor,"2023-03-04",United Kingdom,Retail
+194,Sophia,O'Connor,"2023-09-15",Germany,Retail
+195,Chloe,Patel,"2023-07-12",Germany,Retail
+196,Mia,Wilson,"2023-08-20",United Kingdom,Retail
+197,Elijah,Rossi,"2023-09-19",India,Corporate
+198,Oliver,Khan,"2023-12-26",Malaysia,Retail
+199,Elijah,Patel,"2023-10-21",Malaysia,Retail
+200,Chloe,Patel,"2023-08-16",Ireland,Retail
+201,Sophia,Hughes,"2023-11-18",Italy,Wholesale
+202,Leo,Ng,"2023-06-24",United Kingdom,Retail
+203,Emma,Brown,"2023-12-27",United Kingdom,Corporate
+204,Zara,Brown,"2023-10-06",United Kingdom,Corporate
+205,Emma,Singh,"2023-08-27",Hong Kong,Retail
+206,Ava,Khan,"2023-11-27",Malaysia,Retail
+207,Arjun,Sharma,"2023-07-08",India,Retail
+208,Chloe,Khan,"2023-09-21",Germany,Retail
+209,Ava,Roberts,"2023-04-15",Germany,Corporate
+210,Arjun,Roberts,"2023-12-19",Italy,Retail
+211,Ava,Liu,"2023-08-17",Italy,Wholesale
+212,Ishaan,Hughes,"2023-10-14",Germany,Retail
+213,Arjun,Rossi,"2023-06-18",United Kingdom,Retail
+214,Liam,Ricci,"2023-11-14",United Kingdom,Retail
+215,Ishaan,O'Connor,"2023-01-28",Hong Kong,Retail
+216,Ava,Ricci,"2023-02-11",Germany,Retail
+217,Mia,Hughes,"2023-07-05",Hong Kong,Retail
+218,Mia,Roberts,"2023-09-26",United Kingdom,Retail
+219,Liam,Smith,"2023-10-24",Italy,Wholesale
+220,Leo,Khan,"2023-06-11",United Kingdom,Retail
+221,Oliver,Singh,"2023-08-26",United Kingdom,Corporate
+222,Emma,O'Connor,"2023-07-22",United Kingdom,Retail
+223,Ishaan,Müller,"2023-12-18",United Kingdom,Retail
+224,Noah,Singh,"2023-08-28",Hong Kong,Retail
+225,Ishaan,Ricci,"2023-06-02",Ireland,Retail
+226,Elijah,Singh,"2023-12-21",Italy,Retail
+227,Daniel,Rossi,"2023-02-09",Germany,Retail
+228,Lucas,Patel,"2023-12-27",Germany,Corporate
+229,Isabella,Roberts,"2023-02-26",Italy,Retail
+230,Amelia,Liu,"2023-04-16",United Kingdom,Retail
+231,Emma,Rossi,"2023-10-28",Hong Kong,Retail
+232,Grace,Evans,"2023-09-26",Malaysia,Retail
+233,Aarav,O'Connor,"2023-12-22",India,Retail
+234,Arjun,Ricci,"2023-10-02",Germany,Retail
+235,Emma,Smith,"2023-08-22",United Kingdom,Retail
+236,Ishaan,Liu,"2023-05-07",Hong Kong,Retail
+237,Zara,Rossi,"2023-01-02",Ireland,Corporate
+238,Liam,Taylor,"2023-02-15",United Kingdom,Retail
+239,Elijah,Rossi,"2023-04-19",Ireland,Corporate
+240,Ethan,Schmidt,"2023-01-15",India,Retail
+241,Oliver,Müller,"2023-07-05",India,Retail
+242,Lucas,Ricci,"2023-10-12",India,Wholesale
+243,Mia,Ng,"2023-12-19",India,Retail
+244,Ethan,Wilson,"2023-06-29",United Kingdom,Wholesale
+245,Ethan,Ricci,"2023-11-17",Hong Kong,Retail
+246,Mia,Thomas,"2023-12-27",Germany,Retail
+247,Arjun,Hughes,"2023-11-11",India,Corporate
+248,Liam,Taylor,"2023-06-20",United Kingdom,Retail
+249,Arjun,Taylor,"2023-04-30",Hong Kong,Retail
+250,Aarav,Brown,"2023-12-24",United Kingdom,Retail
+251,Amelia,Murphy,"2023-03-30",United Kingdom,Retail
+252,Emma,Singh,"2023-05-31",Germany,Corporate
+253,Amelia,Patel,"2023-01-28",United Kingdom,Retail
+254,Elijah,O'Connor,"2023-10-18",United Kingdom,Retail
+255,Zara,Khan,"2023-08-26",India,Wholesale
+256,Oliver,Evans,"2023-02-01",Ireland,Retail
+257,Zara,Rossi,"2023-03-23",Hong Kong,Wholesale
+258,Oliver,Thomas,"2023-07-23",Ireland,Retail
+259,Amelia,Singh,"2023-07-17",India,Retail
+260,Lucas,Rossi,"2023-10-21",Germany,Wholesale
+261,Arjun,Brown,"2023-04-08",India,Retail
+262,Amelia,Khan,"2023-12-05",Italy,Retail
+263,Ava,O'Connor,"2023-06-12",Germany,Retail
+264,Leo,O'Connor,"2023-10-29",Hong Kong,Wholesale
+265,Chloe,Thomas,"2023-03-29",Ireland,Corporate
+266,Lucas,Ricci,"2023-01-14",United Kingdom,Retail
+267,Liam,Ng,"2023-01-21",India,Retail
+268,Elijah,Roberts,"2023-05-17",Malaysia,Corporate
+269,Ethan,Singh,"2023-12-15",United Kingdom,Retail
+270,Lucas,Thomas,"2023-01-18",Germany,Retail
+271,Ava,Liu,"2023-05-16",Malaysia,Retail
+272,Aarav,Murphy,"2023-02-09",India,Retail
+273,Amelia,Sharma,"2023-12-07",Hong Kong,Corporate
+274,Chloe,Rossi,"2023-09-05",Italy,Wholesale
+275,Liam,Müller,"2023-10-07",India,Wholesale
+276,Emma,Murphy,"2023-09-19",Ireland,Retail
+277,Emma,Evans,"2023-08-29",Hong Kong,Retail
+278,Arjun,Singh,"2023-10-11",Ireland,Retail
+279,Mia,Wilson,"2023-01-03",India,Retail
+280,Mia,Schmidt,"2023-11-13",Germany,Retail
+281,Ava,Schmidt,"2023-09-28",Italy,Retail
+282,Emma,Ng,"2023-09-28",India,Retail
+283,Zara,Singh,"2023-05-24",Germany,Retail
+284,Emma,Singh,"2023-10-21",Hong Kong,Wholesale
+285,Liam,Roberts,"2023-05-20",Germany,Retail
+286,Leo,Khan,"2023-01-18",India,Retail
+287,Amelia,Sharma,"2023-11-29",Ireland,Wholesale
+288,Lucas,Liu,"2023-03-27",Germany,Wholesale
+289,Isabella,Hughes,"2023-02-07",Germany,Wholesale
+290,Emma,Sharma,"2023-08-16",United Kingdom,Retail
+291,Daniel,Patel,"2023-03-27",United Kingdom,Wholesale
+292,Ava,Roberts,"2023-11-11",India,Retail
+293,Chloe,Rossi,"2023-06-12",India,Retail
+294,Elijah,Müller,"2023-01-02",India,Retail
+295,Isabella,Evans,"2023-12-15",United Kingdom,Retail
+296,Isabella,Wilson,"2023-07-08",Ireland,Retail
+297,Daniel,Murphy,"2023-04-07",United Kingdom,Retail
+298,Liam,Roberts,"2023-09-05",India,Wholesale
+299,Ava,Taylor,"2023-07-14",Malaysia,Retail
+300,Aarav,Evans,"2023-01-11",United Kingdom,Retail
+301,Sophia,Sharma,"2023-10-06",India,Retail
+302,Daniel,Taylor,"2023-05-27",United Kingdom,Retail
+303,Aarav,Hughes,"2023-09-14",United Kingdom,Retail
+304,Grace,O'Connor,"2023-11-24",United Kingdom,Retail
+305,Isabella,Rossi,"2023-08-12",United Kingdom,Retail
+306,Oliver,Ricci,"2023-09-03",India,Wholesale
+307,Elijah,Hughes,"2023-04-04",Hong Kong,Corporate
+308,Lucas,Singh,"2023-03-28",United Kingdom,Retail
+309,Elijah,Thomas,"2023-06-01",Italy,Retail
+310,Oliver,Murphy,"2023-11-09",India,Corporate
+311,Zara,Sharma,"2023-07-11",Hong Kong,Corporate
+312,Zara,Schmidt,"2023-05-08",Italy,Retail
+313,Oliver,Liu,"2023-10-13",United Kingdom,Corporate
+314,Ava,Wilson,"2023-11-09",India,Corporate
+315,Noah,Ricci,"2023-11-27",Ireland,Wholesale
+316,Zara,Müller,"2023-04-20",Hong Kong,Retail
+317,Ishaan,Sharma,"2023-09-17",Ireland,Retail
+318,Ishaan,Singh,"2023-08-05",India,Retail
+319,Leo,Liu,"2023-06-14",United Kingdom,Retail
+320,Arjun,Murphy,"2023-05-26",Germany,Retail
+321,Elijah,Sharma,"2023-02-11",Malaysia,Retail
+322,Oliver,Liu,"2023-04-11",Italy,Retail
+323,Ethan,Singh,"2023-07-21",Germany,Retail
+324,Leo,Liu,"2023-11-21",Hong Kong,Wholesale
+325,Chloe,Ng,"2023-11-14",Malaysia,Retail
+326,Noah,Patel,"2023-03-10",Ireland,Retail
+327,Noah,Liu,"2023-09-06",Italy,Wholesale
+328,Aarav,Schmidt,"2023-02-01",Germany,Wholesale
+329,Oliver,Schmidt,"2023-09-05",India,Corporate
+330,Lucas,Sharma,"2023-05-06",Ireland,Corporate
+331,Isabella,Smith,"2023-06-14",United Kingdom,Corporate
+332,Sophia,Smith,"2023-09-20",Hong Kong,Retail
+333,Elijah,Roberts,"2023-06-05",Hong Kong,Retail
+334,Daniel,Singh,"2023-10-23",Malaysia,Retail
+335,Emma,Schmidt,"2023-07-15",Hong Kong,Retail
+336,Daniel,Ricci,"2024-01-01",India,Corporate
+337,Chloe,Müller,"2023-08-22",India,Retail
+338,Elijah,Brown,"2023-04-19",India,Retail
+339,Noah,Sharma,"2023-10-11",Germany,Retail
+340,Chloe,O'Connor,"2023-05-30",Germany,Retail
+341,Ethan,Wilson,"2023-07-15",United Kingdom,Retail
+342,Ava,Liu,"2023-02-20",India,Retail
+343,Ethan,O'Connor,"2023-02-13",United Kingdom,Corporate
+344,Isabella,Sharma,"2023-07-30",United Kingdom,Retail
+345,Leo,Sharma,"2023-03-10",Italy,Wholesale
+346,Ava,Sharma,"2024-01-01",Germany,Retail
+347,Chloe,Brown,"2023-11-10",United Kingdom,Retail
+348,Leo,Patel,"2023-09-14",Malaysia,Retail
+349,Amelia,Müller,"2023-09-26",Malaysia,Wholesale
+350,Amelia,Ng,"2023-08-06",United Kingdom,Retail
+351,Isabella,Murphy,"2023-01-23",United Kingdom,Corporate
+352,Aarav,Müller,"2023-05-24",Ireland,Retail
+353,Ava,Murphy,"2023-07-01",India,Retail
+354,Liam,Smith,"2023-12-01",Malaysia,Wholesale
+355,Chloe,Wilson,"2023-03-22",United Kingdom,Retail
+356,Chloe,Müller,"2023-07-01",India,Retail
+357,Amelia,Smith,"2023-05-06",United Kingdom,Corporate
+358,Grace,Patel,"2023-02-19",Ireland,Retail
+359,Mia,Liu,"2023-02-07",Hong Kong,Retail
+360,Ishaan,Müller,"2023-05-14",United Kingdom,Retail
+361,Daniel,Murphy,"2023-01-31",United Kingdom,Retail
+362,Grace,O'Connor,"2023-01-25",Germany,Wholesale
+363,Noah,Singh,"2023-05-09",Italy,Wholesale
+364,Grace,Ricci,"2023-03-15",Hong Kong,Retail
+365,Oliver,Müller,"2023-07-23",Hong Kong,Wholesale
+366,Isabella,Liu,"2023-01-07",United Kingdom,Retail
+367,Emma,Müller,"2023-04-21",United Kingdom,Retail
+368,Elijah,Müller,"2023-06-15",India,Retail
+369,Aarav,Evans,"2023-12-19",United Kingdom,Corporate
+370,Arjun,Sharma,"2023-08-21",Malaysia,Retail
+371,Elijah,Roberts,"2023-11-19",India,Retail
+372,Zara,Smith,"2023-05-06",United Kingdom,Retail
+373,Liam,Singh,"2023-06-14",Malaysia,Wholesale
+374,Sophia,Singh,"2023-06-03",United Kingdom,Retail
+375,Grace,Liu,"2023-11-21",Germany,Retail
+376,Mia,Hughes,"2023-12-18",Italy,Wholesale
+377,Ishaan,Hughes,"2023-12-19",Germany,Retail
+378,Ishaan,Rossi,"2023-10-03",India,Retail
+379,Sophia,Hughes,"2023-07-04",India,Retail
+380,Ava,Ng,"2023-07-17",Hong Kong,Retail
+381,Aarav,Patel,"2023-12-25",Hong Kong,Retail
+382,Leo,Schmidt,"2023-04-15",Germany,Corporate
+383,Leo,Evans,"2023-05-07",United Kingdom,Retail
+384,Noah,Brown,"2023-11-25",India,Retail
+385,Aarav,Müller,"2023-05-22",Hong Kong,Corporate
+386,Oliver,Rossi,"2023-03-28",Ireland,Retail
+387,Mia,Patel,"2023-07-25",Germany,Retail
+388,Daniel,Brown,"2023-04-30",Germany,Corporate
+389,Grace,Sharma,"2023-11-23",United Kingdom,Retail
+390,Amelia,Wilson,"2023-11-29",India,Wholesale
+391,Ishaan,Patel,"2023-04-22",Ireland,Wholesale
+392,Amelia,Rossi,"2023-07-13",India,Retail
+393,Sophia,Hughes,"2023-12-27",Malaysia,Retail
+394,Lucas,Murphy,"2023-09-29",Malaysia,Retail
+395,Ishaan,Rossi,"2023-03-20",Germany,Retail
+396,Grace,Ng,"2023-08-05",Ireland,Retail
+397,Aarav,Hughes,"2023-08-15",India,Retail
+398,Amelia,Patel,"2023-08-28",Malaysia,Wholesale
+399,Ava,Patel,"2023-01-10",Germany,Corporate
+400,Elijah,Ng,"2023-04-20",Malaysia,Wholesale
+401,Chloe,Sharma,"2023-11-09",United Kingdom,Retail
+402,Arjun,Sharma,"2023-03-30",Malaysia,Retail
+403,Elijah,Smith,"2023-04-20",United Kingdom,Retail
+404,Chloe,Schmidt,"2023-04-29",United Kingdom,Retail
+405,Emma,Roberts,"2023-03-06",Italy,Corporate
+406,Isabella,Rossi,"2023-02-26",United Kingdom,Retail
+407,Liam,Evans,"2023-05-08",United Kingdom,Retail
+408,Oliver,Brown,"2023-11-16",United Kingdom,Wholesale
+409,Leo,Thomas,"2023-01-01",Germany,Retail
+410,Aarav,Patel,"2023-04-14",India,Retail
+411,Amelia,Ricci,"2023-01-23",United Kingdom,Retail
+412,Noah,Brown,"2023-07-25",India,Retail
+413,Ava,Thomas,"2023-04-02",Malaysia,Wholesale
+414,Oliver,Murphy,"2023-10-17",United Kingdom,Retail
+415,Aarav,Khan,"2023-08-03",United Kingdom,Corporate
+416,Zara,Roberts,"2023-10-14",Malaysia,Corporate
+417,Chloe,Hughes,"2023-08-21",Malaysia,Wholesale
+418,Oliver,Ricci,"2023-06-10",Italy,Retail
+419,Ava,Wilson,"2023-11-12",Malaysia,Retail
+420,Isabella,Ng,"2023-06-24",United Kingdom,Corporate
+421,Leo,Schmidt,"2023-12-14",Ireland,Retail
+422,Zara,Khan,"2023-12-31",India,Retail
+423,Arjun,Evans,"2023-08-04",United Kingdom,Wholesale
+424,Lucas,Singh,"2023-09-04",India,Retail
+425,Liam,Smith,"2023-04-04",Germany,Wholesale
+426,Amelia,O'Connor,"2023-10-26",India,Corporate
+427,Grace,Hughes,"2023-09-03",Germany,Wholesale
+428,Daniel,Taylor,"2023-11-27",Ireland,Retail
+429,Aarav,Evans,"2023-04-08",United Kingdom,Corporate
+430,Ishaan,Khan,"2023-10-16",United Kingdom,Retail
+431,Mia,Hughes,"2023-06-22",India,Wholesale
+432,Ishaan,Liu,"2023-03-09",United Kingdom,Wholesale
+433,Daniel,Wilson,"2023-03-04",United Kingdom,Wholesale
+434,Oliver,Ng,"2023-07-25",United Kingdom,Retail
+435,Liam,Evans,"2023-04-27",United Kingdom,Retail
+436,Oliver,O'Connor,"2023-02-07",Malaysia,Retail
+437,Lucas,Brown,"2023-06-06",Ireland,Retail
+438,Leo,Singh,"2023-08-27",Hong Kong,Retail
+439,Mia,Roberts,"2023-04-27",United Kingdom,Retail
+440,Sophia,Hughes,"2023-12-16",India,Retail
+441,Chloe,Liu,"2023-10-13",Germany,Wholesale
+442,Elijah,Evans,"2023-07-07",Ireland,Corporate
+443,Oliver,O'Connor,"2023-12-09",Malaysia,Retail
+444,Emma,Roberts,"2023-06-08",Hong Kong,Wholesale
+445,Isabella,Singh,"2023-02-21",Malaysia,Retail
+446,Zara,Singh,"2023-01-14",United Kingdom,Retail
+447,Elijah,Murphy,"2023-12-10",United Kingdom,Retail
+448,Chloe,Singh,"2023-12-18",India,Wholesale
+449,Isabella,O'Connor,"2023-09-28",United Kingdom,Corporate
+450,Ava,Wilson,"2023-02-07",India,Wholesale
+451,Chloe,Patel,"2023-04-18",Italy,Corporate
+452,Leo,Taylor,"2023-01-16",Italy,Corporate
+453,Emma,Ng,"2023-01-19",Malaysia,Retail
+454,Aarav,Evans,"2023-04-01",India,Retail
+455,Lucas,Ricci,"2023-07-29",United Kingdom,Retail
+456,Lucas,Ng,"2023-01-24",United Kingdom,Corporate
+457,Oliver,Evans,"2023-12-27",Italy,Retail
+458,Ethan,Ng,"2023-06-16",Germany,Retail
+459,Daniel,Murphy,"2023-04-07",United Kingdom,Corporate
+460,Oliver,Evans,"2023-07-08",Germany,Retail
+461,Ishaan,Brown,"2023-10-17",India,Wholesale
+462,Oliver,Evans,"2023-04-25",Malaysia,Retail
+463,Ishaan,Müller,"2023-01-18",Italy,Corporate
+464,Liam,Smith,"2023-01-19",Ireland,Corporate
+465,Aarav,O'Connor,"2023-11-08",United Kingdom,Retail
+466,Chloe,Khan,"2023-02-10",Italy,Wholesale
+467,Amelia,Ng,"2023-08-21",Ireland,Retail
+468,Lucas,Taylor,"2023-05-21",Italy,Retail
+469,Amelia,O'Connor,"2023-10-12",India,Retail
+470,Leo,Sharma,"2023-01-23",United Kingdom,Wholesale
+471,Ishaan,Wilson,"2023-11-25",United Kingdom,Retail
+472,Daniel,Evans,"2023-09-13",United Kingdom,Retail
+473,Liam,Roberts,"2023-06-14",Malaysia,Wholesale
+474,Emma,Roberts,"2023-03-17",India,Retail
+475,Ethan,Singh,"2023-12-24",United Kingdom,Retail
+476,Arjun,Smith,"2023-04-21",Malaysia,Retail
+477,Daniel,Patel,"2023-06-29",Germany,Retail
+478,Aarav,Khan,"2023-05-25",Germany,Corporate
+479,Zara,Thomas,"2023-03-26",Hong Kong,Retail
+480,Oliver,Khan,"2023-06-02",United Kingdom,Retail
+481,Ava,Khan,"2023-02-25",United Kingdom,Corporate
+482,Daniel,Rossi,"2023-01-01",Italy,Retail
+483,Ava,Hughes,"2023-04-17",United Kingdom,Wholesale
+484,Arjun,Ng,"2023-02-11",India,Retail
+485,Emma,Khan,"2023-06-01",United Kingdom,Corporate
+486,Noah,Liu,"2023-11-12",United Kingdom,Wholesale
+487,Elijah,Ng,"2023-03-01",United Kingdom,Corporate
+488,Isabella,Taylor,"2023-01-01",Germany,Retail
+489,Arjun,Smith,"2023-02-10",United Kingdom,Retail
+490,Ethan,Ricci,"2023-07-05",United Kingdom,Wholesale
+491,Leo,Taylor,"2023-04-11",Malaysia,Retail
+492,Grace,Hughes,"2023-06-29",Ireland,Retail
+493,Arjun,Brown,"2023-01-11",Ireland,Retail
+494,Ethan,Evans,"2023-05-02",United Kingdom,Corporate
+495,Ava,Hughes,"2023-05-31",Ireland,Wholesale
+496,Liam,Ng,"2023-06-07",United Kingdom,Retail
+497,Oliver,Hughes,"2023-07-21",Italy,Wholesale
+498,Sophia,Thomas,"2023-10-13",United Kingdom,Retail
+499,Leo,Murphy,"2023-06-21",Malaysia,Retail
+500,Liam,Hughes,"2023-11-04",Hong Kong,Retail
